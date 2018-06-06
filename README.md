@@ -1,4 +1,4 @@
-## Mash-Yolo2
+## Mask-Yolo2
 ### Introduction
 build yolo2 and instance segmentation from scratch tensorflow like Mask-RCNN
 
